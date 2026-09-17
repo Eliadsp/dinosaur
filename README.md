@@ -1,1 +1,1 @@
-Hello Dino.
+Remote synchronization practice.
